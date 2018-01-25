@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/alex023/clock"
+	"github.com/nilyang/clock"
 	"sync"
 	"time"
 )
